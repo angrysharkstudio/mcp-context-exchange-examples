@@ -186,7 +186,7 @@ If you see "models/gemini-pro is not found" or similar:
 ## Learn More
 
 For a detailed explanation of how this works, read the full blog post:
-[How MCP Handles Context Exchange Between AI Models](https://angry-shark-studio.com/blog/mcp-context-exchange-ai-models)
+[How MCP Handles Context Exchange Between AI Models](https://www.angry-shark-studio.com/blog/mcp-context-exchange-ai-models)
 
 ## Contributing
 
