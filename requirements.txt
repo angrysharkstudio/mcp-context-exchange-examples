@@ -1,0 +1,9 @@
+# MCP Context Exchange Example Dependencies
+# Install with: pip install -r requirements.txt
+
+anthropic>=0.18.0
+openai>=1.12.0
+google-generativeai>=0.3.2
+python-dotenv>=1.0.0
+aiohttp>=3.9.0
+tenacity>=8.2.0
